@@ -1,2 +1,2 @@
-# toit-registry
-Private Toit package registry
+# Toit package registry
+Consibio's Toit package registry
